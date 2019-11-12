@@ -1,0 +1,25 @@
+{
+    "name": "cypress-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "cypress": "^3.6.1"
+    },
+    "devDependencies": {
+        "cypress": "^3.6.1"
+    },
+    "scripts": {
+        "cypress:open": "cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rauanisanfelice/cypress-template.git"
+    },
+    "author": "Rauan I Sanfelice",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rauanisanfelice/cypress-template/issues"
+    },
+    "homepage": "https://github.com/rauanisanfelice/cypress-template#readme"
+}
